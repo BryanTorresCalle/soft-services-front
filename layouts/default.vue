@@ -102,9 +102,9 @@ export default {
           to: '/newOrder'
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          icon: 'mdi-file-multiple',
+          title: 'View Orders',
+          to: '/orders'
         }
       ],
       miniVariant: false,
