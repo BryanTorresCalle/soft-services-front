@@ -97,9 +97,9 @@ export default {
       fixed: false,
       items: [
         {
-          icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/'
+          icon: 'mdi-file-plus',
+          title: 'New Order',
+          to: '/newOrder'
         },
         {
           icon: 'mdi-chart-bubble',
